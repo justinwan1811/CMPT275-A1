@@ -1,7 +1,3 @@
-//CMPT 275 Assignment 1
-// Author: Chin Ho Wan 301308171
-package A1_275;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
